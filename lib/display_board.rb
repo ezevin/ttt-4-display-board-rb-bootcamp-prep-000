@@ -5,7 +5,7 @@
 
 def display_board(board)
   board = [" "," "," "," "," "," "," "," "," "]
-  puts " #{board}  |   |   "
+  puts " #{board[0]}  |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
